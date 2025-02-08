@@ -1,6 +1,6 @@
 project('vala',
 	'c', 'vala',
-	version: '0.58.0-frida',
+	version: '0.58.0-galaxyspy',
 	meson_version: '>= 0.61.0',
 	license: 'LGPL2.1'
 )
